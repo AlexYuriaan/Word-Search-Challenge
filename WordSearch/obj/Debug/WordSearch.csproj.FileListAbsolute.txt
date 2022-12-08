@@ -1,0 +1,7 @@
+C:\Users\thata\RiderProjects\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+C:\Users\thata\RiderProjects\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+C:\Users\thata\RiderProjects\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.AssemblyReference.cache
+C:\Users\thata\RiderProjects\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\thata\RiderProjects\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\thata\RiderProjects\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+C:\Users\thata\RiderProjects\WordSearch\WordSearch\obj\Debug\WordSearch.pdb
